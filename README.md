@@ -31,6 +31,43 @@ a) Data Analysis
 
 <img width="400" height="400" alt="dataset" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/dataset.png"/>
 
+--Following is the corelation matrix, here we can see 'has_soul' is positively co related with 'bone_length' and 'hair_length' but as we have very less features, we are keeping all the features.
+
+<img width="400" height="400" alt="dataset" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/corr_.jpeg"/>
+
+--From the below figure, we can see the data does not have any outliers and from histogram we can observe each feature is following normal distribution.
+
+<table>
+  <tr>
+  <td>bone_length</td>
+  <td>hair_length</td>
+  <td>has_soul</td>
+  <td>rotting_flesh</td>
+  </tr>
+  <tr>
+  <td><img width="400" height="400" alt="max_bar_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/hist_bone_length.jpeg"></td>
+  <td><img width="400" height="400" alt="min_bar_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/hist_hair_length.jpeg"></td>
+  <td><img width="400" height="400" alt="mean_bar_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/hist_has_soul.jpeg"></td>
+  <td><img width="400" height="400" alt="sd_bar_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/hist_rotting_flesh.jpeg"></td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+  <td>bone_length</td>
+  <td>hair_length</td>
+  <td>has_soul</td>
+  <td>rotting_flesh</td>
+  </tr>
+  <tr>
+  <td><img width="400" height="400" alt="max_bar_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/box_bone_length.jpeg"></td>
+  <td><img width="400" height="400" alt="min_bar_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/box_hair_length.jpeg"></td>
+  <td><img width="400" height="400" alt="mean_bar_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/box_has_soul.jpeg"></td>
+  <td><img width="400" height="400" alt="sd_bar_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/box_rotting_flesh.jpeg"></td>
+  </tr>
+</table>
+
 
 
 
