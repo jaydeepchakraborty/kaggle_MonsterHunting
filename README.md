@@ -45,10 +45,10 @@ a) Data Analysis
   <td>rotting_flesh</td>
   </tr>
   <tr>
-  <td><img width="400" height="400" alt="max_bar_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/hist_bone_length.jpeg"></td>
-  <td><img width="400" height="400" alt="min_bar_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/hist_hair_length.jpeg"></td>
-  <td><img width="400" height="400" alt="mean_bar_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/hist_has_soul.jpeg"></td>
-  <td><img width="400" height="400" alt="sd_bar_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/hist_rotting_flesh.jpeg"></td>
+  <td><img width="400" height="300" alt="max_bar_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/hist_bone_length.jpeg"></td>
+  <td><img width="400" height="300" alt="min_bar_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/hist_hair_length.jpeg"></td>
+  <td><img width="400" height="300" alt="mean_bar_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/hist_has_soul.jpeg"></td>
+  <td><img width="400" height="300" alt="sd_bar_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/hist_rotting_flesh.jpeg"></td>
   </tr>
 </table>
 
@@ -61,10 +61,10 @@ a) Data Analysis
   <td>rotting_flesh</td>
   </tr>
   <tr>
-  <td><img width="400" height="400" alt="max_bar_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/box_bone_length.jpeg"></td>
-  <td><img width="400" height="400" alt="min_bar_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/box_hair_length.jpeg"></td>
-  <td><img width="400" height="400" alt="mean_bar_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/box_has_soul.jpeg"></td>
-  <td><img width="400" height="400" alt="sd_bar_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/box_rotting_flesh.jpeg"></td>
+  <td><img width="400" height="300" alt="max_bar_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/box_bone_length.jpeg"></td>
+  <td><img width="400" height="300" alt="min_bar_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/box_hair_length.jpeg"></td>
+  <td><img width="400" height="300" alt="mean_bar_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/box_has_soul.jpeg"></td>
+  <td><img width="400" height="300" alt="sd_bar_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/box_rotting_flesh.jpeg"></td>
   </tr>
 </table>
 
