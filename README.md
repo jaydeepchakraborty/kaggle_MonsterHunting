@@ -101,10 +101,10 @@ a) Evaluation:
 <b>
 Confusion Matrix and Statistics
 
-          Reference
-Prediction  1  2  3
-         1 34  0  2
-         2  0 28 12
+          Reference<br>
+Prediction  1  2  3<br>
+         1 34  0  2<br>
+         2  0 28 12<br>
          3  1 10 23
 
 Overall Statistics
@@ -119,12 +119,12 @@ Overall Statistics
 
 Statistics by Class:
 
-                     Class: 1 Class: 2 Class: 3
-Sensitivity            0.9714   0.7368   0.6216
-Specificity            0.9733   0.8333   0.8493
-Pos Pred Value         0.9444   0.7000   0.6765
-Neg Pred Value         0.9865   0.8571   0.8158
-Prevalence             0.3182   0.3455   0.3364
-Detection Rate         0.3091   0.2545   0.2091
-Detection Prevalence   0.3273   0.3636   0.3091
+                     Class: 1 Class: 2 Class: 3<br>
+Sensitivity            0.9714   0.7368   0.6216<br>
+Specificity            0.9733   0.8333   0.8493<br>
+Pos Pred Value         0.9444   0.7000   0.6765<br>
+Neg Pred Value         0.9865   0.8571   0.8158<br>
+Prevalence             0.3182   0.3455   0.3364<br>
+Detection Rate         0.3091   0.2545   0.2091<br>
+Detection Prevalence   0.3273   0.3636   0.3091<br>
 Balanced Accuracy      0.9724   0.7851   0.7355</b>
