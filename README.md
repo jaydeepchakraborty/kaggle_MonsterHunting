@@ -103,7 +103,7 @@ Confusion Matrix and Statistics
          
   <table>
     <tr>
-      <td colspan=4>Reference</td>
+      <td colspan=4 align="right">Reference</td>
     </tr>
     <tr>
       <td>Prediction</td>
@@ -144,12 +144,57 @@ Overall Statistics
 
 Statistics by Class:
 
-                     Class: 1 Class: 2 Class: 3<br>
-Sensitivity            0.9714   0.7368   0.6216<br>
-Specificity            0.9733   0.8333   0.8493<br>
-Pos Pred Value         0.9444   0.7000   0.6765<br>
-Neg Pred Value         0.9865   0.8571   0.8158<br>
-Prevalence             0.3182   0.3455   0.3364<br>
-Detection Rate         0.3091   0.2545   0.2091<br>
-Detection Prevalence   0.3273   0.3636   0.3091<br>
-Balanced Accuracy      0.9724   0.7851   0.7355</b>
+
+<table>
+    <tr>
+      <td></td>
+      <td>Class: 1</td>
+      <td>Class: 2</td>
+      <td>Class: 3</td>
+    </tr>
+    <tr>
+      <td>Sensitivity</td>
+      <td>0.9714</td>
+      <td>0.7368</td>
+      <td>0.6216</td>
+    </tr>
+   <tr>
+      <td>Specificity</td>
+      <td>0.9733</td>
+      <td>0.8333</td>
+      <td>0.8493</td>
+    </tr>
+   <tr>
+      <td>Pos Pred Value</td>
+      <td>0.9444</td>
+      <td>0.7000</td>
+      <td>0.6765</td>
+    </tr> <tr>
+      <td>Neg Pred Value</td>
+      <td>0.9865</td>
+      <td>0.8571</td>
+      <td>0.8158</td>
+    </tr> <tr>
+      <td>Prevalence</td>
+      <td>0.3182 </td>
+      <td>0.3455</td>
+      <td>0.3364</td>
+    </tr> <tr>
+      <td>Detection Rate</td>
+      <td>0.3091</td>
+      <td>0.2545</td>
+      <td>0.2091</td>
+    </tr> <tr>
+      <td>Detection Prevalence</td>
+      <td>0.3273</td>
+      <td>0.3636</td>
+      <td>0.3091</td>
+    </tr> <tr>
+      <td>Balanced Accuracy</td>
+      <td>0.9724</td>
+      <td>0.7851</td>
+      <td>0.7355</td>
+    </tr>
+  
+  </table>
+
