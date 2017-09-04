@@ -68,11 +68,11 @@ a) Data Analysis
   </tr>
 </table>
 
---Follwing is the scatter plot of primary component-1 vs type
-<img width="400" height="400" alt="pca_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/pca_.jpeg">
+--Follwing is the scatter plot of primary component-1 vs type <br>
+<img width="400" height="400" alt="pca_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/pca_.jpeg"/>
 
---The following is the frequency of each class. It is a balanced data, we do not have to use SMOTE here.
-<img width="400" height="400" alt="sd_bar_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/pca_.jpeg">
+--The following is the frequency of each class. It is a balanced data, we do not have to use SMOTE here.<br>
+<img width="400" height="400" alt="sd_bar_plot" src="https://github.com/jaydeepchakraborty/kaggle_MonsterHunting/blob/master/img/df_.jpeg"/>
 
 Module2:
 ------------------------------
