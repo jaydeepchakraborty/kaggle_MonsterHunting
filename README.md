@@ -100,12 +100,37 @@ a) Evaluation:
 
 <b>
 Confusion Matrix and Statistics
-
-          Reference<br>
-Prediction  1  2  3<br>
-         1 34  0  2<br>
-         2  0 28 12<br>
-         3  1 10 23
+         
+  <table>
+    <tr>
+      <td colspan=4>Reference</td>
+    </tr>
+    <tr>
+      <td>Prediction</td>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
+    </tr>
+  <tr>
+      <td>1</td>
+      <td>34</td>
+      <td>0</td>
+      <td>2</td>
+    </tr>
+  <tr>
+      <td>2</td>
+      <td>0</td>
+      <td>28</td>
+      <td>12</td>
+    </tr>
+  <tr>
+      <td>3</td>
+      <td>1</td>
+      <td>10</td>
+      <td>23</td>
+    </tr>
+  
+  </table>
 
 Overall Statistics
                                          
